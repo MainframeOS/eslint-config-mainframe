@@ -23,6 +23,7 @@ module.exports = {
 Additional configurations are also available:
 
 * `mainframe/ava` when using [AVA](https://github.com/avajs/ava) for tests.
+* `mainframe/jest` when using [Jest](https://facebook.github.io/jest/) for tests.
 * `mainframe/react` when using [React](https://reactjs.org).
 
 The [Prettier configuration](https://prettier.io/docs/en/configuration.html) can be imported from the `eslint-config-mainframe/prettier.config` module.
