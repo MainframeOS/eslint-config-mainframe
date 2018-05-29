@@ -25,6 +25,8 @@ Additional configurations are also available:
 * `mainframe/ava` when using [AVA](https://github.com/avajs/ava) for tests.
 * `mainframe/jest` when using [Jest](https://facebook.github.io/jest/) for tests.
 * `mainframe/react` when using [React](https://reactjs.org).
+* `mainframe/react-native` when using [React Native](https://facebook.github.io/react-native/) as an addition to `mainframe/react`.
+* `mainframe/react-native-web` when using [React Native for Web](https://github.com/necolas/react-native-web) as an addition to `mainframe/react-native`.
 
 The [Prettier configuration](https://prettier.io/docs/en/configuration.html) can be imported from the `eslint-config-mainframe/prettier.config` module.
 
