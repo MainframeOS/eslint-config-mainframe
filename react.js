@@ -2,7 +2,11 @@ module.exports = {
   env: {
     browser: true,
   },
-  extends: ['plugin:react/recommended', 'prettier/react'],
+  extends: [
+    'plugin:import/react',
+    'plugin:react/recommended',
+    'prettier/react',
+  ],
   parserOptions: {
     ecmaFeatures: {
       jsx: true,

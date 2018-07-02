@@ -24,6 +24,7 @@ Additional configurations are also available:
 
 - `mainframe/ava` when using [AVA](https://github.com/avajs/ava) for tests.
 - `mainframe/jest` when using [Jest](https://facebook.github.io/jest/) for tests.
+- `mainframe/electron` when using [Electron](https://electronjs.org/).
 - `mainframe/react` when using [React](https://reactjs.org).
 - `mainframe/react-native` when using [React Native](https://facebook.github.io/react-native/), extends `mainframe/react`.
 - `mainframe/react-native-web` when using [React Native for Web](https://github.com/necolas/react-native-web), extends `mainframe/react-native`.
