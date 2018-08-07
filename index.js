@@ -51,6 +51,7 @@ module.exports = {
       {
         ignoreRestSiblings: true,
         varsIgnorePattern: '^_',
+        argsIgnorePattern: '^_',
       },
     ],
     'no-use-before-define': [
