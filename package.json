@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mainframe",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "ESLint config for Mainframe projects",
   "main": "index.js",
   "repository": "git@github.com:MainframeHQ/eslint-config-mainframe.git",
@@ -10,6 +10,7 @@
     "ava.js",
     "electron.js",
     "jest.js",
+    "jest-puppeteer.js",
     "prettier.config.js",
     "react-native-web.js",
     "react-native.js",
@@ -31,7 +32,7 @@
     "prettier": "^1.14.0"
   },
   "devDependencies": {
-    "eslint": "^5.4.0",
+    "eslint": "^5.5.0",
     "prettier": "^1.14.2"
   }
 }
