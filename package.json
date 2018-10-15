@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mainframe",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "ESLint config for Mainframe projects",
   "main": "index.js",
   "repository": "git@github.com:MainframeHQ/eslint-config-mainframe.git",
@@ -17,22 +17,22 @@
     "react.js"
   ],
   "dependencies": {
-    "eslint-config-prettier": "^3.0.1",
+    "eslint-config-prettier": "^3.1.0",
     "eslint-import-resolver-alias": "^1.1.1",
-    "eslint-plugin-ava": "^5.1.0",
-    "eslint-plugin-flowtype": "^2.50.0",
+    "eslint-plugin-ava": "^5.1.1",
+    "eslint-plugin-flowtype": "^3.0.0",
     "eslint-plugin-import": "^2.14.0",
-    "eslint-plugin-jest": "^21.22.0",
-    "eslint-plugin-prettier": "^2.6.2",
+    "eslint-plugin-jest": "^21.25.0",
+    "eslint-plugin-prettier": "^3.0.0",
     "eslint-plugin-react": "^7.11.1",
-    "eslint-plugin-react-native": "^3.2.1"
+    "eslint-plugin-react-native": "^3.4.0"
   },
   "peerDependencies": {
     "eslint": "^5.0.0",
     "prettier": "^1.14.0"
   },
   "devDependencies": {
-    "eslint": "^5.5.0",
-    "prettier": "^1.14.2"
+    "eslint": "^5.7.0",
+    "prettier": "^1.14.3"
   }
 }
