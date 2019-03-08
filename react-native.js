@@ -8,4 +8,7 @@ module.exports = {
     'mainframe/react',
   ],
   plugins: ['react-native'],
+  rules: {
+    'react-native/sort-styles': 'off',
+  },
 }
