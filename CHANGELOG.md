@@ -1,3 +1,9 @@
+## v4.0.0 (2019-08-14)
+
+- Require ESLint v6.
+- Remove `flow` config from default.
+- Update `typescript-eslint` to v2.
+
 ## v3.0.0 (2019-02-13)
 
 - Extracted Flow-related settings to `flow` module.
