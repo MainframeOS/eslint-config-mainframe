@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mainframe",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "ESLint config for Mainframe projects",
   "main": "index.js",
   "repository": "git@github.com:MainframeHQ/eslint-config-mainframe.git",

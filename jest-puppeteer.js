@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['mainframe/jest'],
+  extends: ['./jest'],
   globals: {
     page: true,
     browser: true,
